@@ -29,7 +29,7 @@
 
 ---
 
-## 🏆 The Hall of Victories
+## 🏆 Achievements
 
 | Epoch | Operation / Event | Distinction | Core Focus / Shipped Output |
 | :---: | :--- | :---: | :--- |
@@ -57,3 +57,60 @@
 ---
 
 ## 🛠️ The Tech Arsenal (Command & Control)
+
+| Subsystem Domain | Technologies & Telemetry |
+| :--- | :--- |
+| **Cognitive Core** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
+| **Control Plane** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) |
+| **Game Engine & 3D** | ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) |
+| **Data Persistence** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| **Design Systems** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
+| **Dev Environment** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white) |
+| **AI & Prompt Eng** | ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-00F0FF?style=for-the-badge&logo=google&logoColor=black) |
+
+---
+
+## 📈 Contribution Graph & Telemetry
+
+<div align="center">
+
+<!-- Smooth Curved Dynamic Activity Line Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaB-exe&theme=tokyo-night&bg_color=0D1117&color=FF007A&line=FF007A&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Atharva's Contribution Graph" />
+
+</div>
+
+---
+
+## 🎮 3D Isometric Contribution Heatmap & Activity
+
+<div align="center">
+
+<!-- 3D Isometric Green/Cyan/Purple Block Skyline -->
+<img src="https://github-profile-3d-contrib.egao-inc.deno.dev/user/AtharvaB-exe?theme=cyberpunk" width="95%" alt="Atharva's 3D Isometric Heatmap" />
+
+<br/><br/>
+
+<!-- Interactive Radar Pentagon & Activity Metrics -->
+<img src="https://github-readme-stats.vercel.app/api?username=AtharvaB-exe&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=9CA3AF" width="48%" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaB-exe&theme=tokyonight" width="48%" alt="Profile Details Radar & Languages" />
+
+</div>
+
+---
+
+## 🔥 Full Account Streak Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaB-exe&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007A&currStreakLabel=00F0FF" width="95%" alt="Atharva's Streak Stats" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AtharvaB-exe&theme=tokyonight&no-frame=false&no-bg=false&margin_w=4" alt="Atharva's Trophies" />
+
+---
+
+
+**Designed & Architected by Atharva Mukund Bulbule • 2026**
+
+</div>
