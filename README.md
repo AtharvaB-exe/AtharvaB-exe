@@ -20,14 +20,3 @@ I'm a **Computer Science & Design (CSD)** undergraduate at SVIT Vasad, passionat
 - 🚀 **Current Ventures:** Founder & UI/UX Designer at **DesignxAB** & Co-Founder at **Posterified Co**.
 
 ---
-
-### 💻 TERMINAL: UPLINK ESTABLISHED
-
-```bash
-root@atharva-core: ~ # ./init_sequence.sh
-[ OK ] Loading CSD design subroutines...
-[ OK ] Compiling Unity & Web shaders...
-[ OK ] Connecting to global developer mesh...
-[INFO] Current Directive: Blend aesthetics with high-performance engineering.
-root@atharva-core: ~ # cat /var/log/creativity.log 
-" Simplicity is the ultimate sophistication, but immersion is where the art lies. "
