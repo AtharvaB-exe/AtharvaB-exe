@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abdulmomen/abdulmomen/main/assets/terminal.svg" width="100%">
-
 # 🚀 Hello, World! I'm Atharva Bulbule
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=UI%2FUX+Enthusiast+%26+Web+Developer;Game+Developer+%7C+CSD+Student;Always+building+something+new!)](https://git.io/typing-svg)
@@ -23,4 +21,13 @@ I'm a **Computer Science & Design (CSD)** undergraduate at SVIT Vasad, passionat
 
 ---
 
-🏆 THE HALL OF VICTORIESEvent / MilestoneRank / StatusMission Intelligence48-Hour Workshop Game Jam🥇 1st PlaceShipped a full 3D psychological horror-survival game within a 48-hour sprint.Prakarsh '26 (DesignDeal)🥇 1st PrizeNational Level Technical Poster & Graphic Design Competition at SVIT Vasad.State-Level Visual Art🥈 2nd PrizeState-Level Drawing Competition (Annasaheb Dange International School).Mock Placement Drive🥈 2nd RankSecured 2nd Rank among engineering peers during department mock drives.🛠️ THE TECH ARSENAL (COMMAND & CONTROL)DivisionPrimary Modules / StackSpecializationProgramming & WebC, Python, JavaScript, HTML5, CSS3, SQL, Vite, Tailwind CSSCore Logic & Responsive UIsUI/UX & DesignFigma, Canva (Advanced Asset Design), Design Systems, TypographyDigital Branding & InterfacesEngines & ToolsUnity, VS Code, Git, Vercel, Replit, MySQLGame Dev & Version ControlAI & Cloud ToolsGemini, Google AI Studio, Claude, ChatGPT, CodexPrompt Engineering & Workflow Acceleration🚀 FEATURED OPERATIONS (PROJECTS)ProjectDescriptionSkillSyncAI Resume Analyzer & ATS Optimizer built for MECIA Hacks.InfinityAward-winning 3D psychological horror-survival game (Game Jam Winner).TrashComScrap & Economy Marketplace built with Tailwind CSS & JavaScript.KeyboardxAB3D Interactive Mechanical Keyboard & Speed Test experience.AtndxABSmart College Attendance Tracker system.📈 GITHUB METRICS & STREAK💡 CURRENT DIRECTIVES🌱 Exploring: Advanced frontend frameworks, Next.js, and immersive WebGL shaders.👯 Collaborating On: Creative UI/UX web applications and indie game development projects.💬 Ask me about: Figma design systems, Unity game loops, or building responsive web interfaces.
+### 💻 TERMINAL: UPLINK ESTABLISHED
+
+```bash
+root@atharva-core: ~ # ./init_sequence.sh
+[ OK ] Loading CSD design subroutines...
+[ OK ] Compiling Unity & Web shaders...
+[ OK ] Connecting to global developer mesh...
+[INFO] Current Directive: Blend aesthetics with high-performance engineering.
+root@atharva-core: ~ # cat /var/log/creativity.log 
+" Simplicity is the ultimate sophistication, but immersion is where the art lies. "
