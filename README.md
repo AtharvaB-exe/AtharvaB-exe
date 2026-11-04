@@ -21,13 +21,14 @@ I'm a **Computer Science & Design (CSD)** undergraduate at SVIT Vasad, passionat
 
 ---
 
-### 💻 TERMINAL: UPLINK ESTABLISHED
+### 🏆 THE HALL OF VICTORIESEvent / MilestoneRank / StatusMission Intelligence48-Hour Workshop Game Jam🥇 1st PlaceShipped a full 3D psychological horror-survival game within a 48-hour sprint.Prakarsh '26 (DesignDeal)🥇 1st PrizeNational Level Technical Poster & Graphic Design Competition at SVIT Vasad.State-Level Visual Art🥈 2nd PrizeState-Level Drawing Competition (Annasaheb Dange International School).Mock Placement Drive🥈 2nd RankSecured 2nd Rank among engineering peers during department mock drives.
 
-```bash
-root@atharva-core: ~ # ./init_sequence.sh
-[ OK ] Loading CSD design subroutines...
-[ OK ] Compiling Unity & Web shaders...
-[ OK ] Connecting to global developer mesh...
-[INFO] Current Directive: Blend aesthetics with high-performance engineering.
-root@atharva-core: ~ # cat /var/log/creativity.log 
-" Simplicity is the ultimate sophistication, but immersion is where the art lies. "
+---
+
+### 🛠️ THE TECH ARSENAL (COMMAND & CONTROL)DivisionPrimary Modules / StackSpecializationProgramming & WebC, Python, JavaScript, HTML5, CSS3, SQL, Vite, Tailwind CSSCore Logic & Responsive UIsUI/UX & DesignFigma, Canva (Advanced Asset Design), Design Systems, TypographyDigital Branding & InterfacesEngines & ToolsUnity, VS Code, Git, Vercel, Replit, MySQLGame Dev & Version ControlAI & Cloud ToolsGemini, Google AI Studio, Claude, ChatGPT, CodexPrompt Engineering & Workflow Acceleration
+
+---
+
+### 🚀 PROJECTS & OPERATIONSProjectDescriptionSkillSyncAI Resume Analyzer & ATS Optimizer built for MECIA Hacks.InfinityAward-winning 3D psychological horror-survival game (Game Jam Winner).TrashComScrap & Economy Marketplace built with Tailwind CSS & JavaScript.KeyboardxAB3D Interactive Mechanical Keyboard & Speed Test experience.AtndxABSmart College Attendance Tracker system.
+
+---
